@@ -1,0 +1,24 @@
+﻿  Tarc assignment 2020.c
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(47): warning C4013: 'system' undefined; assuming extern returning int
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(72): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(97): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(97): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(97): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(97): note: this argument is used as a buffer size
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(98): warning C4013: 'toupper' undefined; assuming extern returning int
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(128): warning C4102: 'insert': unreferenced label
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(406): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(406): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(406): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(406): note: this argument is used as a buffer size
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(268): warning C4101: 'importedCaseReport': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(267): warning C4101: 'yearReport': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(267): warning C4101: 'monthReport': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(269): warning C4101: 'char1': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(268): warning C4101: 'totalRecoveredReport': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(268): warning C4101: 'totalDeathReport': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(270): warning C4101: 'str': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(268): warning C4101: 'localCaseReport': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(267): warning C4101: 'dayReport': unreferenced local variable
+c:\users\nelson\source\repos\tarc assignment 2020\tarc assignment 2020\tarc assignment 2020.c(738): warning C4715: 'reportCompare': not all control paths return a value
+  Tarc assignment 2020.vcxproj -> C:\Users\Nelson\source\repos\Tarc assignment 2020\Debug\Tarc assignment 2020.exe
